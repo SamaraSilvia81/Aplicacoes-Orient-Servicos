@@ -14,6 +14,9 @@
 - **TextInput** - É um componente que permite a exibição de texto na interface do usuário. Ele suporta vários estilos de formatação de texto, como negrito, itálico e sublinhado.
 - **StyleSheet** - É um objeto que permite a criação de estilos para componentes. É semelhante ao CSS no HTML e é usado para definir as propriedades visuais dos componentes.
 
+## Deploy Surge
+ - `Link do Projeto:` https://snack.expo.dev/@eudespereira/profile-loki
+ 
 ## Instalando o Projeto
 
 Se você já tiver na sua máquina o node js, então será preciso fazer um clone no projeto, digitando no seu terminal o comando `git clone`. E depois você precisa reinstalar as dependências com o comando `npm i` e, por fim, apenas dar o comando de inicío para abrir o QR Code, no qual você vai colocar no app Expo Go. O comando é `npx expo start --tunnel`.
