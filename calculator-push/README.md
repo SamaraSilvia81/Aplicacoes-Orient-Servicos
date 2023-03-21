@@ -15,7 +15,7 @@
 - **StyleSheet** - É um objeto que permite a criação de estilos para componentes. É semelhante ao CSS no HTML e é usado para definir as propriedades visuais dos componentes.
 
 ## Deploy Surge
- - `Link do Projeto:` https://snack.expo.dev/@eudespereira/profile-loki
+ - `Link do Projeto:` https://snack.expo.dev/@samarasilvia81/calculator-push
  
 ## Instalando o Projeto
 
