@@ -49,7 +49,7 @@ const [total, setTotal] = useState(0);
 
 - **Aplicação no Return**
 
-Para puxar os dados usando o evento `inChange` para captar a mudança de valores nos input, ou seja, ouvir quando o usuário está digitando. Nesse evento fizemos uma arrow function, no qual recebe como parâmetro um dos nossos estados chamado de "x". Dentro desse método fizemos um if ternário para sabermos do nosso estado existe algo e se existe deve ter convertido para inteiro e caso não é só zerar.
+Para puxar os dados usando o evento `onChange` para captar a mudança de valores nos input, ou seja, ouvir quando o usuário está digitando. Nesse evento fizemos uma arrow function, no qual recebe como parâmetro um dos nossos estados chamado de "x". Dentro desse método fizemos um if ternário para sabermos do nosso estado existe algo e se existe deve ter convertido para inteiro e caso não é só zerar.
 
 ```js
 
