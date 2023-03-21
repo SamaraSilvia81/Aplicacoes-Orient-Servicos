@@ -4,7 +4,7 @@
 
 ## Projeto Inicial de React Native - Loki Profile
 ![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=3C8E83&style=for-the-badge)
-> Esse mine projeto mobile é voltado para compor os principais componentes desse framework com um ainterface amigável e de temática criativa, sendo eles: View; ScrollView; Text; TextInput e StyleSheet.
+> Esse mine projeto mobile é voltado para compor os principais componentes desse framework com um ainterface amigável e de temática criativa, sendo eles: View; ScrollView; Text; TextInput e StyleSheet. 
 
 <br>
 
@@ -13,6 +13,8 @@
 - **Text** - É um componente que permite a exibição de texto na interface do usuário. Ele suporta vários estilos de formatação de texto, como negrito, itálico e sublinhado.
 - **TextInput** - É um componente que permite a exibição de texto na interface do usuário. Ele suporta vários estilos de formatação de texto, como negrito, itálico e sublinhado.
 - **StyleSheet** - É um objeto que permite a criação de estilos para componentes. É semelhante ao CSS no HTML e é usado para definir as propriedades visuais dos componentes.
+
+Para vê o projeto funcionando é só clicar nesse <a href="https://snack.expo.dev/@eudespereira/profile-loki" target="_blank">link</a>
 
 ## Instalando o Projeto
 
