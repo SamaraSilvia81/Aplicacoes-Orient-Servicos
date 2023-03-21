@@ -1,9 +1,9 @@
 ![CalculadorPush]()
 <br><br><br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Calculator+Push+!;React+Native+e+Expo+Go&pause=1000&color=3C8E83&width=435)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Calculator+Push+!;React+Native+e+Expo+Go&pause=1000&color=9580FF&width=435)](https://git.io/typing-svg)
 
 ## Projeto Inicial de React Native - Calculator Push
-![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=3C8E83&style=for-the-badge)
+![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=9580FF&style=for-the-badge)
 > Esse mine projeto mobile é voltado para aprimorar mais os conhecimentos de React Native, agora envolvendo lógicas JS e uso de bibliotecas externas como o react paper.
 
 <br>
