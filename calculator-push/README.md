@@ -1,4 +1,4 @@
-![CalculadorPush]()
+![CalculadorPush](https://user-images.githubusercontent.com/100232025/226717617-e96d18db-c111-4223-9a47-296dcd805c68.gif)
 <br><br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Calculator+Push+!;React+Native+e+Expo+Go&pause=1000&color=9580FF&width=435)](https://git.io/typing-svg)
 
@@ -33,6 +33,8 @@ Para o scrollView foi usado apenas a própria view do scroll + "view", e dentro 
 
 - **useState e sumValues()**
 
+Usamos o hook `useState()` para captarmos o estado de cada input, podendo pegar os seus valores e os manipular. Como fizemos, na função `sumValues` pegamos o "get" de cada estado e o somamos.
+
 ```js
 
 const [total, setTotal] = useState(0);
@@ -46,6 +48,8 @@ const [total, setTotal] = useState(0);
 ```
 
 - **Aplicação no Return**
+
+Para puxar os dados usando o evento `inChange` para captar a mudança de valores nos input, ou seja, ouvir quando o usuário está digitando. Nesse evento fizemos uma arrow function, no qual recebe como parâmetro um dos nossos estados chamado de "x". Dentro desse método fizemos um if ternário para sabermos do nosso estado existe algo e se existe deve ter convertido para inteiro e caso não é só zerar.
 
 ```js
 
