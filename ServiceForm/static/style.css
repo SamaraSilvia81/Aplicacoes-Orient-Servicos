@@ -1,0 +1,68 @@
+html,
+body,
+#root {
+  background-color: #efefef;
+  height: 100%;
+}
+
+h2 {
+  margin: 0.7em;
+}
+
+/*
+.error-message {
+  color: red;
+  font-weight: bold;
+}*/
+
+h2 span {
+  color: #ffbb33;
+  padding: 0.2em;
+  background-color: #222;
+}
+
+p {
+  margin: 1em;
+  text-align: justify;
+  margin-bottom: 1.5em;
+  color: #7b7b7b;
+}
+
+.form_control {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+  margin: 0.5em;
+}
+
+.form_control label {
+  padding: 0.7em;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.form_control input:focus {
+  color: #ffbb33;
+}
+
+.form_control input {
+  padding: 0.7em;
+  margin: 0.5em;
+  border-radius: 0;
+  border: none;
+}
+
+#name {
+  background-color: #222;
+  color: #fff;
+  margin: 0.5em;
+  padding: 0.7em 1.2em;
+  text-decoration: none;
+  transition: 0.5s;
+  cursor: pointer;
+  border: none;
+}
+
+#name:hover {
+  color: #ffbb33;
+}
